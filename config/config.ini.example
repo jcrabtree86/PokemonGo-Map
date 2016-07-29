@@ -21,7 +21,8 @@
 
 # Misc
 #gmaps-key:             # your Google Maps API key
-#webhook:               # webhook URL (including http://)
+#webhook:                https://hooks.slack.com/services/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
+
 
 # Webserver settings
 #host:                  # address to listen on (default 127.0.0.1)
